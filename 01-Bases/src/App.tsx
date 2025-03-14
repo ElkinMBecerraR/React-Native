@@ -4,8 +4,6 @@
 //import { Counter } from "./components/Counter";
 
 import { AuthProvider } from "./context/AuthContext";
-import { LoginPage } from './components/LoginPage';
-import { UserPage } from "./components/UserPage";
 import { FormsPage } from "./components/FormsPage";
 
 function App() {
